@@ -14,7 +14,7 @@ All colors MUST be HSL.
   --popover: 0 0% 100%;
   --popover-foreground: 222.2 84% 4.9%;
 
-  --primary: 222.2 47.4% 11.2%;
+  --primary: 232 54% 19%;
   --primary-foreground: 210 40% 98%;
 
   --secondary: 210 40% 96.1%;
@@ -43,6 +43,13 @@ All colors MUST be HSL.
   --sidebar-accent-foreground: 240 5.9% 10%;
   --sidebar-border: 220 13% 91%;
   --sidebar-ring: 217.2 91.2% 59.8%;
+
+  /* Recovery Platform Theme Colors */
+  --recovery-midnight-blue: 232 54% 19%;
+  --recovery-warm-gold: 35 85% 65%;
+  --recovery-sage-green: 80 25% 55%;
+  --recovery-soft-white: 0 0% 98%;
+  --recovery-light-gray: 210 15% 95%;
 }
 
 .dark {
@@ -55,8 +62,8 @@ All colors MUST be HSL.
   --popover: 222.2 84% 4.9%;
   --popover-foreground: 210 40% 98%;
 
-  --primary: 210 40% 98%;
-  --primary-foreground: 222.2 47.4% 11.2%;
+  --primary: 232 54% 19%;
+  --primary-foreground: 210 40% 98%;
 
   --secondary: 217.2 32.6% 17.5%;
   --secondary-foreground: 210 40% 98%;
@@ -81,6 +88,13 @@ All colors MUST be HSL.
   --sidebar-accent-foreground: 240 4.8% 95.9%;
   --sidebar-border: 240 3.7% 15.9%;
   --sidebar-ring: 217.2 91.2% 59.8%;
+
+  /* Recovery Platform Theme Colors - Dark Mode */
+  --recovery-midnight-blue: 232 54% 19%;
+  --recovery-warm-gold: 35 85% 65%;
+  --recovery-sage-green: 80 25% 55%;
+  --recovery-soft-white: 0 0% 98%;
+  --recovery-light-gray: 240 4% 15%;
 }
 
 @theme {
